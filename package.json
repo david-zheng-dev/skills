@@ -1,6 +1,6 @@
 {
   "name": "nimbus-skills",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": true,
   "description": "Nimbus's internal agent skills for the engineering workflow",
   "scripts": {
