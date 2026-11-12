@@ -1,0 +1,13 @@
+{
+  "name": "nimbus-skills",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Nimbus's internal agent skills for the engineering workflow",
+  "scripts": {
+    "version": "changeset version && node scripts/sync-plugin-version.mjs",
+    "check-plugin-version": "node scripts/sync-plugin-version.mjs --check"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.0"
+  }
+}

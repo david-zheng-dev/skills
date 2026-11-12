@@ -1,0 +1,19 @@
+{
+  "name": "nimbus",
+  "owner": {
+    "name": "David Zheng",
+    "url": ""
+  },
+  "description": "Nimbus's internal agent skills for the engineering workflow, packaged as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "nimbus-skills",
+      "source": "./",
+      "description": "Nimbus agent skills for the engineering workflow.",
+      "category": "engineering",
+      "keywords": [
+        "prd-review"
+      ]
+    }
+  ]
+}

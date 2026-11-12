@@ -1,0 +1,18 @@
+{
+  "name": "nimbus-skills",
+  "version": "1.0.1",
+  "description": "Nimbus's internal agent skills for the engineering workflow",
+  "author": {
+    "name": "David Zheng",
+    "url": ""
+  },
+  "homepage": "",
+  "repository": "https://github.com/david-zheng-dev/skills",
+  "license": "MIT",
+  "keywords": [
+    "prd-review"
+  ],
+  "skills": [
+    "./skills/developer/prd-review"
+  ]
+}
